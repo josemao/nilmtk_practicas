@@ -1,0 +1,4 @@
+# ignore datasets: 
+data/*
+# ignore checkpoints ipython notebooks: 
+.ipynb_checkpoints/
