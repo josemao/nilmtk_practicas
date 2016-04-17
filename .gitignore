@@ -1,5 +1,6 @@
 # ignore datasets: 
-data/*
+data/more_data/*
+*.h5
 # ignore checkpoints ipython notebooks: 
 .ipynb_checkpoints/
 
