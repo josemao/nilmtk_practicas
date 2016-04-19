@@ -14,3 +14,7 @@ Aquí explicaremos algunos de los conceptos básicos para el uso de las librerí
 
 
 **pandas**: herramienta de análisis de datos a gran escala de manera eficiente
+
+
+Notas: 
+-En los *notebooks* de desagregación: 4a y 4b; a veces aparecen errores. Necesario volver a crear los archivos *.h5 para resolver el conflicto. (redd.h5)
