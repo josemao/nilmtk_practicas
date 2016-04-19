@@ -15,3 +15,22 @@ Aquí explicaremos algunos de los conceptos básicos para el uso de las librerí
 
 **pandas**: herramienta de análisis de datos a gran escala de manera eficiente
 
+##2 - Introducción a NILMTK
+
+NILMTK es una herramienta de análisis de datasets de NILM. Contiene funciones específicas para el análisis detallado y rápido del consumo eléctrico. Además, sirve de plataforma para los investigadores de NILM para comparar sus algoritmos con métricas estándar sobre varios datasets. 
+
+Aprenderemos los conceptos básicos. Para más información, consultar la documentación en: 
+https://github.com/nilmtk/nilmtk
+
+Los datasets que utilizaremos son: 
+
+**REDD**: monitorización del consumo energético de 6 casas diferentes en Estados Unidos: 2 casas a alta frequencia (12KHz de corriente y voltage) y 4 casas a baja frequencia (10 segundos por muestra de la potencia activa)
+http://redd.csail.mit.edu/
+
+**UK-DALE** Monitorización de una casa en Inglaterra durante 2 años a alta frequencia y baja frequencia: 16KHz de corriente y voltage y 1 segundo de potencia activa, reactiva y aparente. 
+http://www.doc.ic.ac.uk/~dk3810/data/
+
+
+**IAWE** Monitorización de una en India durante 73 días a 1 segundo. Parámetros: potencias activa, reactiva y aparente, voltage, corriente y factor de potencia. 
+http://iawe.github.io/
+
