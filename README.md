@@ -42,5 +42,7 @@ Antes de realizar la desagregación, podemos analizar el consumo general desde e
  Estudiaremos aquí dos métodos no supervisados de desagregación: cadenas factoriales de Markov (FHMM) y optimización combinatoria (CO); comparándolos mediante el uso del mismo dataset y de las mismas métricas. 
  Se propondrá la realización de un método supervisado de desagregación de un dispositivo. 
 
-Nota: 
+
+
+#####Nota: 
 - Máquina virtual Linux: usr(nilm) y pwd(nilm)
