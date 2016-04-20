@@ -1,6 +1,6 @@
 Notas: 
-- Para solucionar los errores en los notebooks de desagregación, copiar de nuevo redd.h5
-- Compartir carpeta: 
+- Para solucionar los errores en los notebooks de desagregación instalar la version 0.16.2 de pandas: 
+	pip install pandas==0.16.2
 	- Seguir estos pasos: 
 		https://forums.virtualbox.org/viewtopic.php?t=15868#p66406
 		http://askubuntu.com/questions/481559/how-to-automatically-mount-a-folder-and-change-ownership-from-root-in-virtualbox
