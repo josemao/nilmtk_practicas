@@ -34,3 +34,10 @@ http://www.doc.ic.ac.uk/~dk3810/data/
 **IAWE** Monitorización de una en India durante 73 días a 1 segundo. Parámetros: potencias activa, reactiva y aparente, voltage, corriente y factor de potencia. 
 http://iawe.github.io/
 
+##3 - Previo a la desagregación: gráficas y estadísticas. 
+
+Antes de realizar la desagregación, podemos analizar el consumo general desde el smart meter para obtener información interesante sobre la actividad en la vivienda. Asímismo, si se tiene información sobre el consumo individual de algunos dispositivos (groundtruth) mediante la instalación de smart-plugs, podemos obtener los patrones de consumo de distintos dispositivos que nos ayude a mejorar nuestro algoritmo. 
+
+##4 - Desagregación: Métodos supervisados y no supervisados. 
+ Estudiaremos aquí dos métodos no supervisados de desagregación: cadenas factoriales de Markov (FHMM) y optimización combinatoria (CO); comparándolos mediante el uso del mismo dataset y de las mismas métricas. 
+ Se propondrá la realización de un método supervisado de desagregación de un dispositivo. 
