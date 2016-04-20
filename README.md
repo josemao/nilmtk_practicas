@@ -44,3 +44,4 @@ Antes de realizar la desagregación, podemos analizar el consumo general desde e
 
 ##Notas: 
 - Máquina virtual Linux: usr(nilm) y pwd(nilm)
+- Enlazar carpeta **data** como carpeta compartida en Virtual Box. Mantener el nombre **data**
