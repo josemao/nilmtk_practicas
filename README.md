@@ -2,6 +2,9 @@
 
 Non-Intrusive Load Monitoring (NILM) es una colección de técnicas y algoritmos de machine learning orientados a desagregar el consumo total de una casa en consumos individuales de electrodomésticos. 
 
+Estas prácticas sigue algunos de los ejemplos propuestos en: http://nilmtk.github.io/
+
+
 ##1 - Python científico 
 
 Aquí explicaremos algunos de los conceptos básicos para el uso de las librerías necesarias de NILM. 
@@ -39,9 +42,10 @@ http://iawe.github.io/
 Antes de realizar la desagregación, podemos analizar el consumo general desde el smart meter para obtener información interesante sobre la actividad en la vivienda. Asímismo, si se tiene información sobre el consumo individual de algunos dispositivos (groundtruth) mediante la instalación de smart-plugs, podemos obtener los patrones de consumo de distintos dispositivos que nos ayude a mejorar nuestro algoritmo. 
 
 ##4 - Desagregación: Métodos supervisados y no supervisados. 
- Estudiaremos aquí dos métodos no supervisados de desagregación: cadenas factoriales de Markov (FHMM) y optimización combinatoria (CO); comparándolos mediante el uso del mismo dataset y de las mismas métricas. 
- Se propondrá la realización de un método supervisado de desagregación de un dispositivo. 
+ Aquí se estdudiará distintos algoritmos de desagregación. Primeramente se introducirá una extensión del algoritmo de Hart para desagregar de forma supervisada. A continuación, se presentan dos algoritmos no supervisados: cadenas factoriales de Markov (FHMM) y optimización combinatoria (CO); comparándolos mediante el uso del mismo dataset y de las mismas métricas. 
 
 ##Notas: 
 - Máquina virtual Linux: usr(nilm) y pwd(nilm)
 - Enlazar carpeta **data** como carpeta compartida en Virtual Box. Mantener el nombre **data**
+- Es necesaria la installación previa de nilmtk: https://github.com/nilmtk/nilmtk/blob/master/docs/manual/user_guide/install.md
+
