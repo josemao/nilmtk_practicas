@@ -1,3 +1,5 @@
+Para la máquina virtual Linux: 
+
 
 ---- Preparación del SO. ---------------
 - Ubuntu 14.04 LTS (20Gb - 4Gb RAM) 
@@ -5,7 +7,7 @@
 - Usr: nilm pwd: nilm
 - install git: sudo apt-get install git
 - sudo apt-get install libpq-dev python-dev (para psycopg2)
-- sudo apt-get install graphviz
+
 ---------------------------------------
 
 1. Install Anaconda
@@ -22,5 +24,7 @@ https://github.com/nilmtk/nilmtk/blob/master/docs/manual/user_guide/
 
 
 * Importante: Cada vez que se abra el terminal activar la virtualenvr
-	source activate nilmtk-env
+
+	"source activate nilmtk-env"
+	
 * para arrancar el notebook: jupyter notebook
