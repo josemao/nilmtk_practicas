@@ -1,4 +1,3 @@
-Notas: 
 - Para solucionar los errores en los notebooks de desagregación instalar la version 0.16.2 de pandas: 
 
 
