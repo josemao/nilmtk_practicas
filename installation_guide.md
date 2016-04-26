@@ -1,7 +1,8 @@
 Para la máquina virtual Linux: 
 
+---------------------------------------
 
----- Preparación del SO. ---------------
+      Preparación del SO.               
 - Ubuntu 14.04 LTS (20Gb - 4Gb RAM) 
 - Instalar Guest Additions
 - Usr: nilm pwd: nilm
@@ -26,5 +27,5 @@ https://github.com/nilmtk/nilmtk/blob/master/docs/manual/user_guide/
 * Importante: Cada vez que se abra el terminal activar la virtualenvr
 
 	"source activate nilmtk-env"
-	
+
 * para arrancar el notebook: jupyter notebook
