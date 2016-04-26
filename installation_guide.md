@@ -1,8 +1,5 @@
-Para la máquina virtual Linux: 
 
----------------------------------------
-
-      Preparación del SO.               
+Preparación del SO de la máquina virtual Linux.               
 - Ubuntu 14.04 LTS (20Gb - 4Gb RAM) 
 - Instalar Guest Additions
 - Usr: nilm pwd: nilm
@@ -16,13 +13,11 @@ https://www.continuum.io/downloads
 
 2. conda install anaconda-navigator
 	(anaconda-navigator para llamarlo)
-
 3. Install nilmtk as in: 
 https://github.com/nilmtk/nilmtk/blob/master/docs/manual/user_guide/
-4. conda install jupyter
+4.    conda install jupyter
 5. pip install networkx==1.10; pip install pydot
 6. pip install ipdb
-
 
 * Importante: Cada vez que se abra el terminal activar la virtualenvr
 
